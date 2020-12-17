@@ -1,0 +1,15 @@
+/* Add here all your CSS customizations */
+
+  .afrologo {
+    letter-spacing: -5px !important;
+    font-size: 2rem !important;
+}
+
+
+@media (max-width: 575px) {
+  .afrologo {
+    letter-spacing: -3px !important;
+    font-size: 1.1rem !important;
+    /* font-weight: 500 !important; */
+}
+}
