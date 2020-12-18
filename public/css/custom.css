@@ -1,5 +1,12 @@
 /* Add here all your CSS customizations */
 
+:root{
+  --primary-color: #0088CC;
+  --secondary-color: #777;
+  --primary-background: #f7f7f7;
+
+}
+
   .afrologo {
     letter-spacing: -5px !important;
     font-size: 2rem !important;
@@ -10,6 +17,20 @@
   .afrologo {
     letter-spacing: -3px !important;
     font-size: 1.1rem !important;
-    /* font-weight: 500 !important; */
 }
+}
+
+.subheading1{
+  color: #ffff !important;
+  /* color: #777 !important; */
+  color: var(--primary-color) !important;
+}
+
+.sectionX{
+  color: #ffff !important;
+  background-color: var(--primary-background) !important;
+}
+
+.text-white{
+  color: #f7f7f7 !important;
 }
