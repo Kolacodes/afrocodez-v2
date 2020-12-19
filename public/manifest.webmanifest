@@ -1,20 +1,20 @@
 {
-    "name": "My Qur'an Journey",
-    "short_name": "My Qur'an Journey",
+    "name": "Afrocodez",
+    "short_name": "Afrocodez",
     "icons": [
         {
-            "src": "images/icon-g-144x144.png",
-            "sizes": "144x144",
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
             "type": "image/png"
         },
         {
-            "src": "images/icon-g-144x144.png",
-            "sizes": "144x144",
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
             "type": "image/png"
         },
         {
-            "src": "images/icon-g-144x144.png",
-            "sizes": "144x144",
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
             "type": "image/png"
         }
     ],
