@@ -32,5 +32,23 @@
 }
 
 .text-white{
+  color: #ffff !important;
+}
+
+
+.text-grey{
+  color: #777 !important;
+}
+
+
+.text-light-blue{
   color: #f7f7f7 !important;
+}
+
+
+.background-grey{
+  background-color: #777 !important;
+  background-color: #778899 !important;
+  /* background-color: #A9A9A9 !important; */
+
 }
