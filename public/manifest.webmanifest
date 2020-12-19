@@ -1,0 +1,25 @@
+{
+    "name": "My Qur'an Journey",
+    "short_name": "My Qur'an Journey",
+    "icons": [
+        {
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
+            "type": "image/png"
+        },
+        {
+            "src": "images/iphone.png",
+            "sizes": "880x1240",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#0088CC",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
