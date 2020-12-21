@@ -53,6 +53,6 @@
 
 
   /* background-color: #01245a !important; */
-  /* background-color: var(--primary-color) !important; */
+  background-color: var(--primary-color) !important;
 
 }
