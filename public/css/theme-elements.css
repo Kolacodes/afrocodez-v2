@@ -2715,8 +2715,8 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 	position: absolute;
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
-	border-top: 20px solid #FFF;
-	border-top: 20px solid #0088CC;
+	/* border-top: 20px solid #FFF; */
+	/* border-top: 20px solid #0088CC; */
 
 	height: 20px;
 	width: 20px;

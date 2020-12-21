@@ -21,9 +21,9 @@
 }
 
 .subheading1{
-  color: #ffff !important;
+  /* color: #ffff !important; */
   /* color: #777 !important; */
-  /* color: var(--primary-color) !important; */
+  color: var(--primary-color) !important;
 }
 
 .sectionX{
@@ -48,5 +48,11 @@
 
 .background-grey{
   background-color: #777 !important;
-  background-color: #01245a !important;
+  background-color: #1f1f1f !important;
+  background-color: #373737 !important;
+
+
+  /* background-color: #01245a !important; */
+  /* background-color: var(--primary-color) !important; */
+
 }
