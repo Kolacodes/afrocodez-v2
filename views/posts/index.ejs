@@ -117,12 +117,27 @@
 											<span><i class="far fa-user"></i> By <a href="#">><%- each_post.author%></a> </span>
 											<span><i class="far fa-folder"></i> <a href="#">Software Development</a>, <a href="#">Grit</a> </span>
 											<span><i class="far fa-comments"></i> <a href="#"></a></span>
-											<span class="d-block d-sm-inline-block float-sm-right mt-3 mt-sm-0"><a href="/posts/<%= each_post._id %>" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span>
+											<!-- <span class="d-block d-sm-inline-block float-sm-right mt-3 mt-sm-0"><a href="/posts/<%= each_post._id %>" class="btn btn-xs btn-light text-1 text-uppercase">Read More</a></span> -->
 										</div>
 
 									</div>
+									<div class="post-block mt-5 post-share">
+										<h4 class="mb-3">Share this Post</h4>
+		
+										<!-- AddThis Button BEGIN -->
+										<div class="addthis_toolbox addthis_default_style ">
+											<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+											<a class="addthis_button_tweet"></a>
+											<a class="addthis_button_pinterest_pinit"></a>
+											<a class="addthis_counter addthis_pill_style"></a>
+										</div>
+										<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-50faf75173aadc53"></script>
+										<!-- AddThis Button END -->
+		
+										</div>
                 </article>
 <%  }); %>
+
                 
 
 							</div>
